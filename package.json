@@ -1,0 +1,19 @@
+{
+  "name": "quela",
+  "version": "1.2.0",
+  "description": "Quela BOT Music",
+  "main": "index.js",
+  "scripts": {
+    "test": "!help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyukioKudo/boquel.git"
+  },
+  "author": "Q u e l a#1855",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyukioKudo/boquel/issues"
+  },
+  "homepage": "https://github.com/HyukioKudo/boquel#readme"
+}
